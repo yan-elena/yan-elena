@@ -35,10 +35,12 @@ My main interests right now are:
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yan-elena)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yan-elena&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yan-elena)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-elena&layout=compact&hide_border=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=yan-elena&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yan-elena)](https://github.com/anuraghazra/github-readme-stats)
+[![Codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yan-elena&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/yan-elena/)
+
 
 #### Contacts
 📫 Email: elena.yan@studio.unibo.it
