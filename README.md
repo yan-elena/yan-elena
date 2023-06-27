@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ![Prolog](https://img.shields.io/badge/Prolog-Intermediate-blue)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
 
-Hello! I am a Master's Student in [Computer Science and Engineering](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) at Alma Mater Studiorum - University of Bologna.
+👩🏻‍💻 Hello! I am a Master's Student in [Computer Science and Engineering](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) at Alma Mater Studiorum - University of Bologna.
 
-My main interests right now are:
+🔭 My main interests right now are:
 - Multi-Agent Systems (**MAS**) and `JaCaMo` framework
 - Artificial intelligence
 - Complex systems
@@ -40,6 +40,7 @@ My main interests right now are:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-elena&layout=compact&hide_border=true&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yan-elena&theme=transparent)](https://git.io/streak-stats)
 ![codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yan-elena)
+
 
 #### Contacts
 📫 Email: elena.yan@studio.unibo.it
