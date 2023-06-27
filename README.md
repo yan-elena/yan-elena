@@ -36,11 +36,10 @@ My main interests right now are:
 ### Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yan-elena&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yan-elena)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-elena&layout=compact&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yan-elena)](https://git.io/streak-stats)
-[![Codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yan-elena)](https://profile.codersrank.io/user/yan-elena/)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yan-elena&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-elena&layout=compact&hide_border=true&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yan-elena&theme=transparent)](https://git.io/streak-stats)
+![codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yan-elena)
 
 #### Contacts
 📫 Email: elena.yan@studio.unibo.it
