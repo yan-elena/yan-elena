@@ -36,15 +36,11 @@ My main interests right now are:
 ### Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yan-elena&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yan-elena)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-elena&layout=compact&hide_border=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yan-elena)](https://github.com/anuraghazra/github-readme-stats)
-[![Codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yan-elena&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/yan-elena/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-elena&layout=compact&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yan-elena)](https://git.io/streak-stats)
+[![Codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yan-elena)](https://profile.codersrank.io/user/yan-elena/)
 
 
 #### Contacts
 📫 Email: elena.yan@studio.unibo.it
-
-#### Other Profiles
-<a href="https://www.linkedin.com/in/elena-yan-711603271"/><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
-<a href="https://www.instagram.com/yannnele/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30px" alt="instagram"></a>
