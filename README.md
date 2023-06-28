@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yan-elena&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-elena&layout=compact&hide_border=true&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yan-elena&theme=transparent)](https://git.io/streak-stats)
-![codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yan-elena)
-
+[![codersrank](https://github.com/yan-elena/yan-elena/assets/78790594/2fd4a907-aff2-4dc5-9b5d-fbd7c16c0efe)](https://profile.codersrank.io/user/yan-elena)
 
 #### Contacts
 📫 Email: elena.yan@studio.unibo.it
