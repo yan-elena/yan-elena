@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yan-elena&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yan-elena&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yan-elena&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-elena&layout=compact&hide_border=true&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yan-elena&theme=transparent)](https://git.io/streak-stats)
