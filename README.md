@@ -1,4 +1,4 @@
-### Elena Yan
+## Elena Yan
 
 <!--
 **yan-elena/yan-elena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 - Artificial intelligence
 - Complex systems
 
+### Contacts
+📫 Email: elena.yan@studio.unibo.it
+
 ### Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yan-elena&row=1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -40,6 +43,3 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-elena&layout=compact&hide_border=true&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yan-elena&theme=transparent)](https://git.io/streak-stats)
 [![codersrank](https://github-production-user-asset-6210df.s3.amazonaws.com/78790594/249479500-2fd4a907-aff2-4dc5-9b5d-fbd7c16c0efe.jpg)](https://profile.codersrank.io/user/yan-elena)
-
-#### Contacts
-📫 Email: elena.yan@studio.unibo.it
