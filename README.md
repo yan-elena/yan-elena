@@ -37,10 +37,8 @@ Here are some ideas to get you started:
 📫 Email: elena.yan@studio.unibo.it
 
 ### Stats
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=yan-elena&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yan-elena&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-elena&layout=compact&hide_border=true&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yan-elena&theme=transparent)](https://git.io/streak-stats)
-[![codersrank](https://github-production-user-asset-6210df.s3.amazonaws.com/78790594/249885997-eed35c15-89c6-4b6a-95e3-a9e0d6d9157a.png)](https://profile.codersrank.io/user/yan-elena)
+[![codersrank](https://github-production-user-asset-6210df.s3.amazonaws.com/78790594/249889833-92ab4fad-f222-4940-a575-7cdcc556e7c9.png)](https://profile.codersrank.io/user/yan-elena)
