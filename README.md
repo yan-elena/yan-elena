@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 👩🏻‍💻 Hello! I am a Master's Student in [Computer Science and Engineering](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) at Alma Mater Studiorum - University of Bologna.
 
 🔭 My main interests are:
-- Multi-Agent Systems (**MAS**) and `JaCaMo` framework
+- Agent and Multi-Agent Systems
 - Artificial intelligence
 - Complex systems
 
