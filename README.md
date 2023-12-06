@@ -26,7 +26,11 @@ Here are some ideas to get you started:
 ![Prolog](https://img.shields.io/badge/Prolog-Intermediate-blue)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
 
-👩🏻‍💻 Hello! I am a Master's Student in [Computer Science and Engineering](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) at Alma Mater Studiorum - University of Bologna.
+👩🏻‍💻 Hello! I am a PhD student in Computer Science at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/en/), France.
+
+👩🏻‍🎓 B.Sc. and M.Sc in [Computer Science and Engineering](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) at Alma Mater Studiorum University of Bologna, Italy.
+
+~
 
 🔭 My main interests are:
 - Agent and Multi-Agent Systems
