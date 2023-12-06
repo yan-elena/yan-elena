@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 - Complex systems
 
 ### Contacts
-📫 Email: elena.yan@studio.unibo.it
+📫 Email: 
+
+- elena.yan@emse.fr
+- elena.yan@studio.unibo.it
 
 ### Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=yan-elena&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
