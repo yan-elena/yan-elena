@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-Intermediate-blue)
 ![Prolog](https://img.shields.io/badge/Prolog-Intermediate-blue)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
+![](https://hit.yhype.me/github/profile?user_id=78790594)
 
 👩🏻‍💻 Hello! I am a PhD student in Computer Science at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/en/), France.
 
