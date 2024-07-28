@@ -38,11 +38,10 @@ Here are some ideas to get you started:
 - Artificial intelligence
 - Complex systems
 
-### Contacts
-📫 Email: 
+### Get in Touch
+🌐 Site: http://yan-elena.github.io  _(incomplete)_
 
-- elena.yan@emse.fr
-- elena.yan@studio.unibo.it
+📫 Email: elena.yan@emse.fr
 
 ### Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=yan-elena&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
