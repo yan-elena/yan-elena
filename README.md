@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - Complex systems
 
 ### Get in Touch
-🌐 Site: http://yan-elena.github.io  _(incomplete)_
+🌐 Site: https://yan-elena.github.io  _(incomplete)_
 
 📫 Email: elena.yan@emse.fr
 
