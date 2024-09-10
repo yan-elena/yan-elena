@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 
 🔭 My main interests are:
 - Agent and Multi-Agent Systems
+- Adaptive Complex Systems
 - Artificial intelligence
-- Complex systems
+- Explainable AI
 
 ### Get in Touch
 🌐 Site: https://yan-elena.github.io  _(incomplete)_
