@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - Explainable AI
 
 ### Get in Touch
-🌐 Site: https://yan-elena.github.io  _(incomplete)_
+🌐 Site: https://yan-elena.github.io
 
 📫 Email: elena.yan@emse.fr
 
