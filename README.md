@@ -29,23 +29,26 @@ Here are some ideas to get you started:
 
 👩🏻‍💻 Hello! I am a PhD student in Computer Science at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/en/), France.
 
-👩🏻‍🎓 B.Sc. and M.Sc in [Computer Science and Engineering](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) at Alma Mater Studiorum University of Bologna, Italy.
+👩🏻‍🎓 I obtained my B.Sc. and M.Sc. in [Computer Science and Engineering](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) at Alma Mater Studiorum University of Bologna, Italy.
 
 ~
 
-🔭 My main interests are:
-- Agent and Multi-Agent Systems
-- Adaptive Complex Systems
-- Explainable AI
+🔭 My research interests center around multi-agent systems and engineering methodologies, with the aim of deploying regulated, adaptive, and trustworthy systems. My current research focuses on the development of a model and mechanisms for multi-agent systems able to self-regulate and adapt regulations for a trustworthy and sustainable industry of the future. Some keywords are:
+
+- Regulation Management
+- Regulation Adaptation
+- Explainable Agency
+- Multi-Agent Systems
 
 ### Get in Touch
-🌐 Site: https://yan-elena.github.io
+🌐 Website: https://yan-elena.github.io
 
 📫 Email: elena.yan@emse.fr
 
+<!--
 ### Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=yan-elena&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yan-elena&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yan-elena&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yan-elena&theme=transparent)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan-elena&layout=compact&hide_border=true&theme=transparent)
-[![codersrank](https://github-production-user-asset-6210df.s3.amazonaws.com/78790594/249889833-92ab4fad-f222-4940-a575-7cdcc556e7c9.png)](https://profile.codersrank.io/user/yan-elena)
+[![codersrank](https://github-production-user-asset-6210df.s3.amazonaws.com/78790594/249889833-92ab4fad-f222-4940-a575-7cdcc556e7c9.png)](https://profile.codersrank.io/user/yan-elena)-->
